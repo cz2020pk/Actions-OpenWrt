@@ -29,5 +29,6 @@ Build OpenWrt using GitHub Actions
 - [Lean's OpenWrt](https://github.com/coolsnowwolf/lede)
 
 ## License
+cd openwrt && make menuconfig
 
 [MIT](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE) © P3TERX
